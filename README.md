@@ -41,5 +41,5 @@ $ sudo rm -rfv ~/Library/Application\ Support/Autodesk/
 
 ### Conclusion
 
-Congratulations! you now no longer have anything Autodesk installed on your Mac OS device!
+Congratulations! You now no longer have anything Autodesk installed on your Mac OS device!
 
