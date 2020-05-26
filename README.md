@@ -18,7 +18,7 @@ $ sudo rm -rfv /Library/Preferences/FLEXnet Publisher/
 ```
 3. Delete /Library/Application Support/Autodesk/ folder 
 ```bash
-$ sudo rm -rfv /Library/Application Support/Autodesl/
+$ sudo rm -rfv /Library/Application Support/Autodesk/
 ```
 4. In /Library/Preferences/ folder delete all files that start with com.autodesk, com.Autodesk, com.Alias, com.alias 
 ```bash
